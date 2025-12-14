@@ -5,20 +5,23 @@ Pre-final Year B.Tech AI & Data Science Student | Java & Python Developer | Aspi
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pre-final year **B.Tech Artificial Intelligence & Data Science** student at  
-  **Kalaignar Karunanidhi Institute of Technology, Coimbatore**
-- 💡 Strong interest in **Java, Data Structures, Machine Learning, and backend development**
-- 🧠 Actively preparing for **placements and software engineering roles**
-- 🚀 Consistent competitive programmer and project-based learner
+🎓 Pre-final year **Artificial Intelligence & Data Science** student at  
+**Kalaignar Karunanidhi Institute of Technology, Coimbatore**
+
+💡 Passionate about **Java, Data Structures, Machine Learning, and backend development**
+
+🚀 Actively preparing for **placements and software engineering roles**
+
+🧠 Competitive programmer with hands-on project experience
 
 ---
 
 ## 🎓 Education
 
 **B.Tech – Artificial Intelligence & Data Science**  
-Kalaignar Karunanidhi Institute of Technology, Coimbatore  
+📍 KIT – Kalaignar Karunanidhi Institute of Technology  
 📅 2023 – 2027  
 📊 **CGPA: 7.98 / 10**
 
@@ -30,96 +33,85 @@ Data Science, Deep Learning
 
 ## 💼 Experience
 
-### Internship Training – Manfree Technologies (Offline)  
-📍 Coimbatore | 📅 Dec 2024  
-- Hands-on training in **Python, Machine Learning, and Deep Learning**
-- Gained exposure to **backend web development concepts**
+**Internship Training – Manfree Technologies (Offline)**  
+📍 Coimbatore | Dec 2024  
+- Trained in **Python, Machine Learning, and Deep Learning**
+- Exposure to **backend web development**
 
-### Internship Training – Manfree Technologies (Online)  
+**Internship Training – Manfree Technologies (Online)**  
 📅 Jun 2025  
-- Trained in **Full Stack Development**
-- Built a **To-Do List web application** using **HTML, CSS, and JavaScript**
+- Full Stack Development training  
+- Built a **To-Do List web application** using HTML, CSS, JavaScript
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Text-Text  
-**Python, Jupyter Notebook**  
-🔗 https://github.com/Hellanmithula/text  
-- Built notebooks for **text data processing and analysis**
-- Demonstrated **basic NLP pipelines** using Python libraries
+🔗 **All my projects are available here:**  
+👉 **https://github.com/Hellanmithula?tab=repositories**
 
-### 🔹 Text-Image  
-**Python**  
-🔗 https://github.com/Hellanmithula/text-image  
-- Developed Python scripts for **automation**
-- Converted and processed **text and image data** for ML and data workflows
+**Project Areas Include:**
+- Text Processing & NLP (Python)
+- Text–Image Automation (Python)
+- Full Stack Web Applications
+- AI & Data Science Academic Projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-**Programming Languages:**  
+**Programming Languages**  
 C | Python | Java | JavaScript  
 
-**Core Skills:**  
+**Core Concepts**  
 Data Structures & Algorithms | Machine Learning | Data Science  
 
-**Tools & Technologies:**  
-Git | GitHub | Linux | DevOps (Basics) | React.js | Flutter  
-
-**Other:**  
-Prompt Engineering | Cloud Fundamentals  
+**Tools & Technologies**  
+Git | GitHub | Linux | DevOps (Basics)  
+React.js | Flutter  
 
 ---
 
-## 📜 Certifications & Courses
+## 📜 Certifications
 
-- **Infosys Springboard** – Python Programming (Achiever)
-- **Juniper Networks** – Cloud & Mist AI
-- **Cisco** – Python Essentials, Cybersecurity
-- **NPTEL** – Soft Skills
+- Infosys Springboard – Python Programming (Achiever)
+- Juniper Networks – Cloud & Mist AI
+- Cisco – Python Essentials & Cybersecurity
+- NPTEL – Soft Skills
 
 ---
 
 ## 🧠 Competitive Programming
 
-### LeetCode  
+**LeetCode**  
 🔗 https://leetcode.com/u/Hellan_mithula06/  
-- **Contest Rating:** 1529  
-- **Global Rank:** 283,505 / 791,535  
-- **Problems Solved:** 15  
-- **Top Performance:** 36.29 percentile  
-- **Languages Used:** Python, Java, MySQL  
+- Contest Rating: **1529**
+- Top **36.29 percentile**
+- Languages: Python, Java, MySQL
 
-### CodeChef  
+**CodeChef**  
 🔗 https://www.codechef.com/users/hellanmithula  
-- **Current Rating:** 1225 (Div 4)  
-- **Problems Solved:** 250+  
-- **Contests Participated:** 61  
-- **Badges:**  
-  - Contest Contender – Gold Badge  
-  - Problem Solver – Silver Badge  
+- Rating: **1225 (Div 4)**
+- Problems Solved: **250+**
+- Gold Badge – Contest Contender  
+- Silver Badge – Problem Solver
 
 ---
 
 ## 🏆 Achievements
 
 - Participated in **TCS CodeVita Season 12 (2025)**
-- **CodeChef Contest Contender – Gold Badge** (50+ contests)
-- **LeetCode Competitive Programming**  
-  - Contest Rating: 1529  
-  - Global Rank: 283,505  
+- CodeChef Contest Contender – **Gold Badge**
+- LeetCode Global Rank: **283,505**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-- 📧 Email: **hellanmithula@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/hellan-mithula-5a36282a5
-- 🧑‍💻 GitHub: https://github.com/Hellanmithula
+📧 Email: **hellanmithula@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/hellan-mithula-5a36282a5  
+🐙 GitHub: https://github.com/Hellanmithula  
 
 ---
 
-⭐ *Thanks for visiting my profile! I’m actively building projects and improving my problem-solving skills for placements.*
+⭐ *Thanks for visiting my profile! I’m continuously improving my skills and building projects for placements.*
